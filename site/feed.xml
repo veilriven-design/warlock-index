@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>WARLOCK-INDEX</title>
+  <subtitle>Open-source strategic research corpus</subtitle>
+  <link href="https://www.warlock-index.org/" />
+  <link rel="self" href="https://www.warlock-index.org/feed.xml" />
+  <id>https://www.warlock-index.org/</id>
+  <updated>2026-06-16T03:30:00.000Z</updated>
+  <author><name>WARLOCK-INDEX</name></author>
+  <rights>UNCLASSIFIED//OPEN SOURCE. For research continuity only.</rights>
+  <entry>
+    <title>Allied And Multilateral Source Register</title>
+    <link href="https://www.warlock-index.org/library/source-registers/allied-multilateral.html" />
+    <id>https://www.warlock-index.org/library/source-registers/allied-multilateral.html</id>
+    <updated>2026-06-16T03:30:00.000Z</updated>
+    <summary>WARLOCK-INDEX documentation product.</summary>
+    <category term="Source Register" />
+    <category term="Global" />
+  </entry>
+  <entry>
+    <title>EU Security And Defense Source Packet</title>
+    <link href="https://www.warlock-index.org/library/collections/source-packets/nato-allied-capacity/2026-06-16T0330Z-eu-security-defense-source-packet.html" />
+    <id>https://www.warlock-index.org/library/collections/source-packets/nato-allied-capacity/2026-06-16T0330Z-eu-security-defense-source-packet.html</id>
+    <updated>2026-06-16T03:30:00.000Z</updated>
+    <summary>EU security-defense sources are essential for European allied analysis, but they are not interchangeable with NATO or national force evidence. The Strategic Compass provides an EU-level security and defense framework; EDIS and Readiness 2030 provide defense-industrial, capability-gap, procurement, and investment-source...</summary>
+    <category term="Source Packet" />
+    <category term="Collections" />
+  </entry>
+</feed>
